@@ -77,7 +77,7 @@ function App() {
             <Box
               sx={{ maxWidth: "100%" }}
               component="img"
-              src="byron2.jpg"
+              src="byron2.png"
             ></Box>
           </Grid>
           <Grid ml={5} mt={15} mb={5}>
